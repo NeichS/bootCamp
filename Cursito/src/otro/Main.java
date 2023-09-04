@@ -28,7 +28,6 @@ public class Main {
         for (String s : food) {
             System.out.println(s);
             System.out.println(s);
-
         }
 
 
